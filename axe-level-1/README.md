@@ -5,7 +5,7 @@ Resolve http://axe.g0v.tw/level/1
 
 ## Result
 
-`node index.js`
+`npm start`
 
 and then open [http://localhost:5000/api/result](http://localhost:5000/api/result)
 

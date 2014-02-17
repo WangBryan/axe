@@ -1,13 +1,17 @@
 {
     "name"       : "axe-level-1",
-    "description": "resolve http://axe.g0v.tw/level/1",
     "version"    : "0.0.1",
+    "description": "resolve http://axe.g0v.tw/level/1",
+    "main" : "index.js",
     "contributor": [
         {
             "name" : "Lee",
             "email": "jessy1092@gmail.com"
         }
     ],
+    "scripts": {
+        "start": "node index.js"
+    },
     "engines":{
         "node": "0.10.x"
     },
