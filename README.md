@@ -1,17 +1,7 @@
-AXE Level 1
+AXE
 =============
 
-Resolve http://axe.g0v.tw/level/1
-
-## Result
-
-`node index.js`
-
-and then open [http://localhost:5000/api/result](http://localhost:5000/api/result)
-
-## Installation
-
-`npm i`
+The answer of http://axe.g0v.tw/
 
 ## License
 
